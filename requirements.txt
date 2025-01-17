@@ -1,0 +1,6 @@
+streamlit
+spacy
+textblob
+gensim
+nltk
+scikit-learn
